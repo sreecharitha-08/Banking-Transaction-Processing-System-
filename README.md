@@ -6,17 +6,17 @@ The Secure Core Banking System is a console-based banking application developed 
 🚀 Features
 
 Account creation, including mobile number verification<br>
-Secure Password Storage using SHA-256 hashing
-Balance Inquiry with authentication
-Deposit and Withdrawal functionality
-Transaction Logging with Mini Statement feature
-Account Closure with business rule validation (balance must be zero)
-Foreign Key based relational database design
+Secure Password Storage using SHA-256 hashing<br>
+Balance Inquiry with authentication<br>
+Deposit and Withdrawal functionality<br>
+Transaction Logging with Mini Statement feature<br>
+Account Closure with business rule validation (balance must be zero)<br>
+Foreign Key based relational database design<br>
 
 🛠️ Technologies Used
 
-Core Java
-JDBC (Java Database Connectivity)
-MySQL
-SHA-256 Password Hashing
-SQL (DDL and DML operations)
+Core Java<br>
+JDBC (Java Database Connectivity)<br>
+MySQL<br>
+SHA-256 Password Hashing<br>
+SQL (DDL and DML operations)<br>
