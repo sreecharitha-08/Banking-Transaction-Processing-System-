@@ -5,7 +5,7 @@ The Secure Core Banking System is a console-based banking application developed 
 
 🚀 Features
 
-Account creation, including mobile number verification
+Account creation, including mobile number verification<br>
 Secure Password Storage using SHA-256 hashing
 Balance Inquiry with authentication
 Deposit and Withdrawal functionality
